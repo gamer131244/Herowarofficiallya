@@ -87,6 +87,7 @@ footer {
 .footer-wrapper {
   position: absolute;
   margin-top: 100vh;
+  display: none;
 }
 
 
