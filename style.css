@@ -14,9 +14,9 @@ body {
 
 
 .content {
-  background: "background login.jpg";
+  background: url("background login.jpg");
   background-size: cover;
-
+  background-position: center;
 }
 
 .header-wrapper {
