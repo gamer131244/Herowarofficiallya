@@ -14,7 +14,7 @@ body {
 
 
 .content {
-  background: url("/background login.jpg");
+  background: url("background login.jpg");
   background-size: cover;
 
 }
